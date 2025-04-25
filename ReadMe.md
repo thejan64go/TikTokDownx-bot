@@ -1,7 +1,7 @@
 # 🎬 TikTok Downloader Bot | Download Without Watermark
 <div align="center">
 
-![TikTok Downloader Bot](./images/tiktok-banner.png)
+![TikTok Downloader Bot](./images/banner.png)
 </div>
 
 <div align="center">
